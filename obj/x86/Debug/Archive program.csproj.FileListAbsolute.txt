@@ -1,0 +1,54 @@
+C:\Users\Extra\onedrive\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Extra\onedrive\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Extra\OneDrive\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Extra\OneDrive\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Extra\OneDrive\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.frmArchif.resources
+C:\Users\Extra\OneDrive\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FrmLogin.resources
+C:\Users\Extra\OneDrive\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FrmMain.resources
+C:\Users\Extra\OneDrive\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Extra\OneDrive\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Archive program.csproj.GenerateResource.cache
+C:\Users\Extra\OneDrive\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Extra\OneDrive\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Archive program.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.frmArchif.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FrmLogin.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FrmMain.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Archive program.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Archive program.csprojAssemblyReference.cache
+D:\OAF AR\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\OAF AR\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\OAF AR\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.frmArchif.resources
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FrmLogin.resources
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FrmMain.resources
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\Archive program.csproj.GenerateResource.cache
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AddUser.resources
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Client.resources
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.frmuploadfile.resources
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Issuing_documents.resources
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.frmdec.resources
+D:\OAF AR\WindowsFormsApplication2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\OAF AR\WindowsFormsApplication2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\OAF AR\WindowsFormsApplication2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\OAF AR\WindowsFormsApplication2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\Archive program.csproj.CopyComplete
+D:\OAF AR\WindowsFormsApplication2\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Lus_Doc.resources
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Frm_Accounts.resources
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Frm_Password_Account.resources
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\Archive program.csproj.AssemblyReference.cache
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\Archive program.csproj.CoreCompileInputs.cache
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\RdlCompile.cache
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\RdlCompile.compiled
+D:\OAF AR\WindowsFormsApplication2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\OAF AR\WindowsFormsApplication2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\OAF AR\WindowsFormsApplication2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
