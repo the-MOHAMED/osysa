@@ -52,3 +52,30 @@ D:\OAF AR\WindowsFormsApplication2\bin\Debug\Microsoft.ReportViewer.Common.dll
 D:\OAF AR\WindowsFormsApplication2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
 D:\OAF AR\WindowsFormsApplication2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
 D:\OAF AR\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Osys\Documents\GitHub\osysa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Osys\Documents\GitHub\osysa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Osys\Documents\GitHub\osysa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Osys\Documents\GitHub\osysa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Osys\Documents\GitHub\osysa\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Osys\Documents\GitHub\osysa\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Osys\Documents\GitHub\osysa\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Osys\Documents\GitHub\osysa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\Archive program.csproj.AssemblyReference.cache
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.AddUser.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.frmdec.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.Frm_Password_Account.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.Frm_Accounts.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.Client.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.frmuploadfile.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.frmArchif.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.FrmLogin.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.FrmMain.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.Issuing_documents.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.Lus_Doc.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\Archive program.csproj.GenerateResource.cache
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\Archive program.csproj.CoreCompileInputs.cache
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\Archive program.csproj.CopyComplete
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Osys\Documents\GitHub\osysa\obj\x86\Debug\WindowsFormsApplication2.pdb
