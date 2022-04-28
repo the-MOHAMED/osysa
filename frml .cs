@@ -15,7 +15,7 @@ namespace WindowsFormsApplication2
     {
         SqlConnection con = new SqlConnection(@"data source=192.168.1.200,59595;Network Library=DBMSSOCN; initial catalog= data; user id=MS;password=ms56200");
 
-
+gggggggggggggg
         ClsData CLSDATA = new ClsData();
         public Issuing_documents()
         {
