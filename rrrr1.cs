@@ -13,6 +13,7 @@ namespace WindowsFormsApplication2
     {
         public rrrr1()
         {
+            ,MKASDAFSSDF
             InitializeComponent();
         }
     }
