@@ -13,7 +13,7 @@ namespace WindowsFormsApplication2
    public partial class Client : Form
     {
 
-
+FELFELFELFLEF
         SqlConnection con = new SqlConnection(@"data source=192.168.1.200,59595;Network Library=DBMSSOCN; initial catalog= data; user id=MS;password=ms56200");
 
         //DataTable ;
